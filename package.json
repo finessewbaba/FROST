@@ -1,0 +1,13 @@
+{
+  "name": "demo2",
+  "version": "1.0.0",
+  "description": "Sample demo",
+  "main": "index.js",
+  "author": "Baba",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "moment": "^2.29.4",
+    "node-emoji": "^2.1.0"
+  }
+}
