@@ -1,3 +1,3 @@
-### Sample demo
+### Sample demo (dev)
 
 ~ yarn install ~
