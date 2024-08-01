@@ -1,0 +1,32 @@
+.get-template-49 {
+  width: 243px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -26px;
+  text-decoration: underline;
+  line-height: 106.1%;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+}
+.link {
+  height: 23px;
+  width: 192px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 450px) {
+  .get-template-49 {
+    font-size: var(--font-size-lg);
+    line-height: 19px;
+  }
+}
